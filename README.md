@@ -16,7 +16,7 @@ La utilización de GitHub Pages ha facilitado el despliegue del sitio web sin ne
 Yo no la he vinculado a ningun dominio porque no tengo. Pero esto es suficiente para entenderlo por ejemplo cada vez que se realiza un `git push` a la rama principal, el sitio se actualiza automáticamente
 <img width="1906" height="1079" alt="Pages#1" src="https://github.com/user-attachments/assets/14660231-1bbe-4508-80ca-5ca2ef2bc756" />
 <img width="1919" height="1079" alt="Pages#2" src="https://github.com/user-attachments/assets/7aef74cb-1abc-469a-a49d-cd94ba7c5f2a" />
-[Enlace](https://alvarohdezz27.github.io/blog_alvaro/)
+[Enlace a mi pagina con github pages](https://alvarohdezz27.github.io/blog_alvaro/)
 
 ## Conclusión
 Esta práctica me ha permitido comprender la importancia del control de versiones, la documentación y el despliegue automatizado en el desarrollo web.
